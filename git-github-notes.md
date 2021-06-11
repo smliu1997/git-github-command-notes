@@ -23,4 +23,9 @@
 
 `git branch -m [old branch name] [new branch name]`: rename/move the branch `[old branch name]` to `[new branch name]`
 
+`git branch -M [branch name]`: rename the current branch to `[branch name]`
+
+`git pull origin [branch name]`: update local repository from remote
+
+
 
